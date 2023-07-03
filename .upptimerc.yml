@@ -61,6 +61,10 @@ sites:
     url: https://home.millers.cloud
   - name: Disciples Church
     url: https://discipleschurch.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
   
 
 status-website:
