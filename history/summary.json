@@ -95,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cenode.millers.cloud.ico",
     "slug": "cenode-portfolio",
     "status": "up",
-    "uptime": "14.14%",
-    "uptimeDay": "14.14%",
-    "uptimeWeek": "14.14%",
-    "uptimeMonth": "14.14%",
-    "uptimeYear": "14.14%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 267,
     "timeDay": 267,
     "timeWeek": 267,
     "timeMonth": 267,
     "timeYear": 267,
-    "dailyMinutesDown": {
-      "2023-07-03": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Featheread",
@@ -313,19 +311,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/qr.millers.cloud.ico",
     "slug": "miller-s-cloud-qr-qr-code-generator",
     "status": "up",
-    "uptime": "9.40%",
-    "uptimeDay": "9.40%",
-    "uptimeWeek": "9.40%",
-    "uptimeMonth": "9.40%",
-    "uptimeYear": "9.40%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 438,
     "timeDay": 438,
     "timeWeek": 438,
     "timeMonth": 438,
     "timeYear": 438,
-    "dailyMinutesDown": {
-      "2023-07-03": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Miller's Cloud SEO - SEO Report Generator",
