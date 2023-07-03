@@ -58,7 +58,7 @@ sites:
   - name: Miller's Cloud Photos - Photo Editor
     url: https://photos.millers.cloud/
   - name: Miller's Home
-    url: https://home.millers.cloud
+    url: $SECRET_SITE_MILLERS_HOME
     __dangerous__body_down_if_text_missing: 'Reserved for Miller'
   - name: Disciples Church
     url: https://discipleschurch.com
