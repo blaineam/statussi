@@ -491,18 +491,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.millers.cloud.ico",
     "slug": "miller-s-home",
     "status": "down",
-    "uptime": "97.32%",
-    "uptimeDay": "97.32%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "97.32%",
-    "uptimeYear": "97.32%",
+    "uptime": "95.36%",
+    "uptimeDay": "95.36%",
+    "uptimeWeek": "95.36%",
+    "uptimeMonth": "95.36%",
+    "uptimeYear": "95.36%",
     "time": 450,
     "timeDay": 450,
     "timeWeek": 450,
     "timeMonth": 450,
     "timeYear": 450,
     "dailyMinutesDown": {
-      "2023-07-03": 0
+      "2023-07-03": 1
     }
   },
   {
@@ -522,7 +522,7 @@
     "timeMonth": 71,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2023-07-03": 30
+      "2023-07-03": 20
     }
   }
 ]
