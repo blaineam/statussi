@@ -7,15 +7,13 @@ sites:
     url: https://www.blaineam.com
   - name: Miller's Cloud Directory
     url: https://millers.cloud
-  - name: Disciples Church
-    url: https://discipleschurch.com
   - name: Miller's Cloud Sites
     url: https://sites.millers.cloud
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: statussi.millers.cloud
+  cname: status.millers.cloud
   # baseUrl: /statussi
   logoUrl: https://q6g1.c10.e2-1.dev/blaineam/static/bmlogo.png
   name: Miller's Cloud Status
@@ -24,8 +22,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 assignees: # Users to assign downtime issues (optional)
   - blaineam
 # Upptime also supports notifications, assigning issues, and more
