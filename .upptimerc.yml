@@ -12,16 +12,22 @@ sites:
     url: https://sites.millers.cloud
   - name: 120 Media
     url: https://120.media
+    __dangerous__body_down_if_text_missing: 'Romans 1:20'
   - name: Luma Friend
     url: https://luma.dog
+    __dangerous__body_down_if_text_missing: 'Luma Friend'
   - name: Cenode Portfolio
     url: https://cenode.millers.cloud
+    __dangerous__body_down_if_text_missing: 'Connecting our customers with their customers'
   - name: Featheread
     url: https://featheread.millers.cloud
+    __dangerous__body_down_if_text_missing: 'Comedy'
   - name: Cache API
     url: https://cacheapi.millers.cloud
+    __dangerous__body_down_if_text_missing: 'be here, now should you'
   - name: Cache Website
     url: https://cache.millers.cloud
+    __dangerous__body_down_if_text_missing: 'Check out what makes Cache unique'
   - name: Blaine's CDN
     url: https://q6g1.c10.e2-1.dev/blaineam/data/static/media/images/theme/favicon.png
   - name: Miller's Cloud Go - Link Sharing
@@ -44,14 +50,16 @@ sites:
     url: https://seo.millers.cloud/
   - name: Miller's Cloud Barker - Fast Accountability
     url: https://barker.millers.cloud/
+    __dangerous__body_down_if_text_missing: 'Blazing Fast Acountability for Every Device'
   - name: Miller's Cloud Analytics - Website Analytics
     url: https://analytics.millers.cloud/
   - name: Miller's Cloud Forms - Website Forms Utility
     url: https://forms.millers.cloud/
-  - name: Miller's Cloud Help - Supportt Center
+  - name: Miller's Cloud Help - Support Center
     url: https://help.millers.cloud/
   - name: Miller's Cloud WebScan - Site Scanning API
     url: https://webscan.millers.cloud/
+    __dangerous__body_down_if_text_missing: 'Cloud Website Scanning'
   - name: Miller's Cloud Tools - Multi Tool Site
     url: https://tools.millers.cloud/
   - name: Miller's Cloud Puzzles - JigSaw Puzzles
