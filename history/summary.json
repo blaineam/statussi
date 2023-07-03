@@ -95,11 +95,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cenode.com.ico",
     "slug": "cenode-portfolio",
     "status": "down",
-    "uptime": "1.65%",
-    "uptimeDay": "1.65%",
-    "uptimeWeek": "1.65%",
-    "uptimeMonth": "1.65%",
-    "uptimeYear": "1.65%",
+    "uptime": "1.66%",
+    "uptimeDay": "1.66%",
+    "uptimeWeek": "1.66%",
+    "uptimeMonth": "1.66%",
+    "uptimeYear": "1.66%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -313,18 +313,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/https.ico",
     "slug": "miller-s-cloud-qr-qr-code-generator",
     "status": "down",
-    "uptime": "3.13%",
-    "uptimeDay": "3.13%",
-    "uptimeWeek": "3.13%",
-    "uptimeMonth": "3.13%",
-    "uptimeYear": "3.13%",
+    "uptime": "2.35%",
+    "uptimeDay": "2.35%",
+    "uptimeWeek": "2.35%",
+    "uptimeMonth": "2.35%",
+    "uptimeYear": "2.35%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-03": 0
+      "2023-07-03": 1
     }
   },
   {
@@ -524,7 +524,7 @@
     "timeMonth": 85,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2023-07-03": 20
+      "2023-07-03": 21
     }
   }
 ]
