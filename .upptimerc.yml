@@ -68,6 +68,10 @@ sites:
     url: https://photos.millers.cloud/
   - name: Miller's Home
     url: $SECRET_SITE_MILLERS_HOME
+    expectedStatusCodes:
+      - 0
+      - 200
+      - 201
   - name: Disciples Church
     url: https://discipleschurch.com
     expectedStatusCodes:
