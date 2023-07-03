@@ -14,7 +14,7 @@ sites:
   - name: Luma Friend
     url: https://luma.dog
   - name: Cenode Portfolio
-    url: https://cenode.com
+    url: https://cenode.millers.cloud
   - name: Featheread
     url: https://featheread.millers.cloud
   - name: Cache API
@@ -38,7 +38,7 @@ sites:
   - name: Miller's Cloud f2gp - Folders to Google Photos
     url: https://folderstogooglephotos.millers.cloud/
   - name: Miller's Cloud QR - QR Code Generator
-    url: https://https://qr.millers.cloud/
+    url: https://qr.millers.cloud/
   - name: Miller's Cloud SEO - SEO Report Generator
     url: https://seo.millers.cloud/
   - name: Miller's Cloud Barker - Fast Accountability
