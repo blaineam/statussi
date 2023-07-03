@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3039,
-    "timeDay": 3039,
-    "timeWeek": 3039,
-    "timeMonth": 3039,
-    "timeYear": 3039,
+    "time": 3930,
+    "timeDay": 3930,
+    "timeWeek": 3930,
+    "timeMonth": 3930,
+    "timeYear": 3930,
     "dailyMinutesDown": {}
   },
   {
@@ -28,32 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 316,
-    "timeWeek": 316,
-    "timeMonth": 316,
-    "timeYear": 316,
+    "time": 354,
+    "timeDay": 354,
+    "timeWeek": 354,
+    "timeMonth": 354,
+    "timeYear": 354,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Disciples Church",
-    "url": "https://discipleschurch.com",
-    "icon": "https://icons.duckduckgo.com/ip3/discipleschurch.com.ico",
-    "slug": "disciples-church",
-    "status": "down",
-    "uptime": "3.93%",
-    "uptimeDay": "3.93%",
-    "uptimeWeek": "3.93%",
-    "uptimeMonth": "3.93%",
-    "uptimeYear": "3.93%",
-    "time": 109,
-    "timeDay": 109,
-    "timeWeek": 109,
-    "timeMonth": 109,
-    "timeYear": 109,
-    "dailyMinutesDown": {
-      "2023-07-03": 0
-    }
   },
   {
     "name": "Miller's Cloud Sites",
@@ -66,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 359,
-    "timeWeek": 359,
-    "timeMonth": 359,
-    "timeYear": 359,
+    "time": 347,
+    "timeDay": 347,
+    "timeWeek": 347,
+    "timeMonth": 347,
+    "timeYear": 347,
     "dailyMinutesDown": {}
   }
 ]
