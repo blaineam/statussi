@@ -59,6 +59,7 @@ sites:
     url: https://photos.millers.cloud/
   - name: Miller's Home
     url: https://home.millers.cloud
+    __dangerous__body_down_if_text_missing: 'Reserved for Miller'
   - name: Disciples Church
     url: https://discipleschurch.com
     expectedStatusCodes:
