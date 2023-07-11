@@ -22,9 +22,9 @@
     "url": "https://millers.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/millers.cloud.ico",
     "slug": "miller-s-cloud-directory",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 298,
     "timeMonth": 316,
     "timeYear": 316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-11": 0
+    }
   },
   {
     "name": "Miller's Cloud Sites",
@@ -94,9 +96,9 @@
     "url": "https://cenode.millers.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/cenode.millers.cloud.ico",
     "slug": "cenode-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +107,9 @@
     "timeWeek": 271,
     "timeMonth": 271,
     "timeYear": 271,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-11": 0
+    }
   },
   {
     "name": "Featheread",
