@@ -171,19 +171,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/q6g1.c10.e2-1.dev.ico",
     "slug": "blaine-s-cdn",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 612,
     "timeDay": 443,
     "timeWeek": 603,
     "timeMonth": 612,
     "timeYear": 612,
-    "dailyMinutesDown": {
-      "2023-07-14": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Miller's Cloud Go - Link Sharing",
