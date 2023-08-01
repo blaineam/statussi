@@ -63,19 +63,19 @@
     "url": "https://120.media",
     "icon": "https://icons.duckduckgo.com/ip3/120.media.ico",
     "slug": "120-media",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1277,
-    "timeDay": 3197,
-    "timeWeek": 1437,
-    "timeMonth": 1277,
-    "timeYear": 1277,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "93.55%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 1248,
+    "timeDay": 2185,
+    "timeWeek": 1296,
+    "timeMonth": 1248,
+    "timeYear": 1248,
     "dailyMinutesDown": {
-      "2023-08-01": 0
+      "2023-08-01": 93
     }
   },
   {
@@ -83,19 +83,19 @@
     "url": "https://luma.dog",
     "icon": "https://icons.duckduckgo.com/ip3/luma.dog.ico",
     "slug": "luma-friend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1388,
-    "timeDay": 1068,
-    "timeWeek": 1337,
-    "timeMonth": 1388,
-    "timeYear": 1388,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "93.55%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 1440,
+    "timeDay": 1853,
+    "timeWeek": 1569,
+    "timeMonth": 1440,
+    "timeYear": 1440,
     "dailyMinutesDown": {
-      "2023-08-01": 0
+      "2023-08-01": 93
     }
   },
   {
