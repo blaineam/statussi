@@ -4,9 +4,9 @@
     "url": "https://www.blaineam.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.blaineam.com.ico",
     "slug": "blaine-am-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,25 +15,28 @@
     "timeWeek": 1325,
     "timeMonth": 1390,
     "timeYear": 1638,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-13": 0
+    }
   },
   {
     "name": "Miller's Cloud Directory",
     "url": "https://millers.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/millers.cloud.ico",
     "slug": "miller-s-cloud-directory",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.66%",
-    "time": 272,
-    "timeDay": 244,
-    "timeWeek": 243,
-    "timeMonth": 246,
-    "timeYear": 272,
+    "time": 271,
+    "timeDay": 233,
+    "timeWeek": 241,
+    "timeMonth": 245,
+    "timeYear": 271,
     "dailyMinutesDown": {
+      "2023-08-13": 0,
       "2023-07-26": 15,
       "2023-07-11": 182
     }
