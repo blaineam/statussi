@@ -1,7 +1,7 @@
 url: https://cacheapi.millers.cloud
-status: down
-code: 403
-responseTime: 115
-lastUpdated: 2023-08-21T02:33:48.231Z
+status: up
+code: 200
+responseTime: 75
+lastUpdated: 2023-08-21T02:37:52.428Z
 startTime: 2023-07-03T16:47:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
