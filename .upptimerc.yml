@@ -4,13 +4,13 @@ repo: statussi # The name of this repository
 user-agent: blaineam
 
 sites:
-  - name: BlaineAM Portfolio
-    url: https://www.blaineam.com
+  - name: Blaine's Portfolio
+    url: https://wemiller.com
     __dangerous__body_down_if_text_missing: 'Blaine Miller'
-  - name: Miller's Cloud Directory
-    url: https://millers.cloud
-  - name: Miller's Cloud Sites
-    url: https://sites.millers.cloud
+  - name: We Miller Apps
+    url: https://apps.wemiller.com
+  - name: We Miller Sites
+    url: https://sites.wemiller.com
   - name: 120 Media
     url: https://120.media
     __dangerous__body_down_if_text_missing: 'Romans 1:20'
@@ -18,55 +18,55 @@ sites:
     url: https://luma.dog
     __dangerous__body_down_if_text_missing: 'Luma Friend'
   - name: Cenode Portfolio
-    url: https://cenode.millers.cloud
+    url: https://cenode.wemiller.com
     __dangerous__body_down_if_text_missing: 'Connecting our customers with their customers'
   - name: Featheread
-    url: https://featheread.millers.cloud
+    url: https://featheread.wemiller.com
     __dangerous__body_down_if_text_missing: 'Comedy'
   - name: Cache API
-    url: https://cacheapi.millers.cloud
+    url: https://cacheapi.wemiller.com
     __dangerous__body_down_if_text_missing: 'be here, now should you'
   - name: Cache Website
-    url: https://cache.millers.cloud
+    url: https://cache.wemiller.com
     __dangerous__body_down_if_text_missing: 'Check out what makes Cache unique'
   - name: Blaine's CDN
     url: https://q6g1.c10.e2-1.dev/blaineam/data/static/media/images/theme/favicon.png
-  - name: Miller's Cloud Go - Link Sharing
-    url: https://go.millers.cloud/
-  - name: Miller's Cloud Download - Media Downloader
-    url: https://download.millers.cloud/
-  - name: Miller's Cloud GPhotos - Google Photos Viewer
-    url: https://gphotos.millers.cloud/
-  - name: Miller's Cloud Pass - Password Manager
-    url: https://pass.millers.cloud/
-  - name: Miller's Cloud imgur - Imgur Album Uploader
-    url: https://imgur.millers.cloud/
-  - name: Miller's Cloud 360 - 360 Metadata Injector
-    url: https://360.millers.cloud/
-  - name: Miller's Cloud f2gp - Folders to Google Photos
-    url: https://folderstogooglephotos.millers.cloud/
-  - name: Miller's Cloud QR - QR Code Generator
-    url: https://qr.millers.cloud/
-  - name: Miller's Cloud SEO - SEO Report Generator
-    url: https://seo.millers.cloud/
-  - name: Miller's Cloud Barker - Fast Accountability
-    url: https://barker.millers.cloud/
+  - name: We Miller Go - Link Sharing
+    url: https://go.wemiller.com/
+  - name: We Miller Download - Media Downloader
+    url: https://download.wemiller.com/
+  - name: We Miller GPhotos - Google Photos Viewer
+    url: https://gphotos.wemiller.com/
+  - name: We Miller Pass - Password Manager
+    url: https://pass.wemiller.com/
+  - name: We Miller imgur - Imgur Album Uploader
+    url: https://imgur.wemiller.com/
+  - name: We Miller 360 - 360 Metadata Injector
+    url: https://360.wemiller.com/
+  - name: We Miller f2gp - Folders to Google Photos
+    url: https://folderstogooglephotos.wemiller.com/
+  - name: We Miller QR - QR Code Generator
+    url: https://qr.wemiller.com/
+  - name: We Miller SEO - SEO Report Generator
+    url: https://seo.wemiller.com/
+  - name: We Miller Barker - Fast Accountability
+    url: https://barker.wemiller.com/
     __dangerous__body_down_if_text_missing: 'Blazing Fast Acountability for Every Device'
-  - name: Miller's Cloud Analytics - Website Analytics
-    url: https://analytics.millers.cloud/
-  - name: Miller's Cloud Forms - Website Forms Utility
-    url: https://forms.millers.cloud/
-  - name: Miller's Cloud Help - Support Center
-    url: https://help.millers.cloud/
-  - name: Miller's Cloud WebScan - Site Scanning API
-    url: https://webscan.millers.cloud/
+  - name: We Miller Analytics - Website Analytics
+    url: https://analytics.wemiller.com/
+  - name: We Miller Forms - Website Forms Utility
+    url: https://forms.wemiller.com/
+  - name: We Miller Help - Support Center
+    url: https://help.wemiller.com/
+  - name: We Miller WebScan - Site Scanning API
+    url: https://webscan.wemiller.com/
     __dangerous__body_down_if_text_missing: 'Cloud Website Scanning'
-  - name: Miller's Cloud Tools - Multi Tool Site
-    url: https://tools.millers.cloud/
-  - name: Miller's Cloud Puzzles - JigSaw Puzzles
-    url: https://puzzles.millers.cloud/
-  - name: Miller's Cloud Photos - Photo Editor
-    url: https://photos.millers.cloud/
+  - name: We Miller Tools - Multi Tool Site
+    url: https://tools.wemiller.com/
+  - name: We Miller Puzzles - JigSaw Puzzles
+    url: https://puzzles.wemiller.com/
+  - name: We Miller Photos - Photo Editor
+    url: https://photos.wemiller.com/
   - name: Miller's Home
     url: $SECRET_SITE_MILLERS_HOME
     expectedStatusCodes:
@@ -84,11 +84,11 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.millers.cloud
+  cname: status.wemiller.com
   # baseUrl: /statussi
-  logoUrl: https://q6g1.c10.e2-1.dev/blaineam/static/bmlogo.png
-  name: Miller's Cloud Status
-  introTitle: "This is the current state of the various Miller's Cloud Infrastructure"
+  logoUrl: https://cdn.wemiller.com/blaineam/static/bmlogo.png
+  name: We Miller Status
+  introTitle: "This is the current state of the various We Miller Infrastructure"
   introMessage: "If there is an outage, Blaine will fix it as he has the time to do so."
   navbar:
     - title: Status
