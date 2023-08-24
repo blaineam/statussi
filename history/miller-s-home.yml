@@ -1,7 +1,7 @@
 url: $SECRET_SITE_MILLERS_HOME
-status: down
-code: 404
-responseTime: 158
-lastUpdated: 2023-08-24T06:28:51.556Z
+status: up
+code: 200
+responseTime: 589
+lastUpdated: 2023-08-24T06:45:20.827Z
 startTime: 2023-07-03T16:48:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
