@@ -194,11 +194,11 @@
     "url": "https://q6g1.c10.e2-1.dev/blaineam/data/static/media/images/theme/favicon.png",
     "icon": "https://icons.duckduckgo.com/ip3/q6g1.c10.e2-1.dev.ico",
     "slug": "blaine-s-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 590,
     "timeDay": 1380,
@@ -206,6 +206,7 @@
     "timeMonth": 603,
     "timeYear": 590,
     "dailyMinutesDown": {
+      "2023-09-12": 0,
       "2023-09-08": 15
     }
   },
