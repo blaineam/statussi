@@ -1,7 +1,7 @@
 url: https://cacheapi.wemiller.com
-status: down
-code: 503
-responseTime: 79
-lastUpdated: 2024-05-18T04:30:28.183Z
+status: up
+code: 200
+responseTime: 293
+lastUpdated: 2024-05-18T04:40:09.886Z
 startTime: 2023-07-03T16:47:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
