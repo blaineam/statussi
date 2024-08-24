@@ -6,73 +6,12 @@ user-agent: blaineam
 sites:
   - name: Blaine's Portfolio
     url: https://wemiller.com
-    __dangerous__body_down_if_text_missing: 'Blaine Miller'
-  - name: We Miller Apps
-    url: https://apps.wemiller.com
-  - name: We Miller Sites
-    url: https://sites.wemiller.com
-  - name: 120 Media
-    url: https://120.media
-    __dangerous__body_down_if_text_missing: 'Romans 1:20'
-  - name: Luma Friend
-    url: https://luma.dog
-    __dangerous__body_down_if_text_missing: 'Luma Friend'
-  - name: Cenode Portfolio
-    url: https://cenode.wemiller.com
-    __dangerous__body_down_if_text_missing: 'Connecting our customers with their customers'
-  - name: Featheread
-    url: https://featheread.wemiller.com
-    __dangerous__body_down_if_text_missing: 'Comedy'
-  - name: Cache API
-    url: https://cacheapi.wemiller.com
-    __dangerous__body_down_if_text_missing: 'be here, now should you'
-  - name: Cache Website
-    url: https://cache.wemiller.com
-    __dangerous__body_down_if_text_missing: 'Check out what makes Cache unique'
+    __dangerous__body_down_if_text_missing: 'Blaine'
   - name: Blaine's CDN
-    url: https://q6g1.c10.e2-1.dev/blaineam/data/static/media/images/theme/favicon.png
-  - name: We Miller Go - Link Sharing
-    url: https://go.wemiller.com/
-  - name: We Miller Download - Media Downloader
-    url: https://download.wemiller.com/
-  - name: We Miller GPhotos - Google Photos Viewer
-    url: https://gphotos.wemiller.com/
-  - name: We Miller Pass - Password Manager
-    url: https://pass.wemiller.com/
-  - name: We Miller imgur - Imgur Album Uploader
-    url: https://imgur.wemiller.com/
-  - name: We Miller 360 - 360 Metadata Injector
-    url: https://360.wemiller.com/
-  - name: We Miller f2gp - Folders to Google Photos
-    url: https://folderstogooglephotos.wemiller.com/
-  - name: We Miller QR - QR Code Generator
-    url: https://qr.wemiller.com/
-  - name: We Miller SEO - SEO Report Generator
-    url: https://seo.wemiller.com/
+    url: https://cdn.wemiller.com/blaineam/data/static/media/images/theme/favicon.png
   - name: We Miller Barker - Fast Accountability
     url: https://barker.wemiller.com/
     __dangerous__body_down_if_text_missing: 'Blazing Fast Acountability for Every Device'
-  - name: We Miller Analytics - Website Analytics
-    url: https://analytics.wemiller.com/
-  - name: We Miller Forms - Website Forms Utility
-    url: https://forms.wemiller.com/
-  - name: We Miller Help - Support Center
-    url: https://help.wemiller.com/
-  - name: We Miller WebScan - Site Scanning API
-    url: https://webscan.wemiller.com/
-    __dangerous__body_down_if_text_missing: 'Cloud Website Scanning'
-  - name: We Miller Tools - Multi Tool Site
-    url: https://tools.wemiller.com/
-  - name: We Miller Puzzles - JigSaw Puzzles
-    url: https://puzzles.wemiller.com/
-  - name: We Miller Photos - Photo Editor
-    url: https://photos.wemiller.com/
-  - name: Miller's Home
-    url: $SECRET_SITE_MILLERS_HOME
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 201
   - name: Disciples Church
     url: https://discipleschurch.com
     expectedStatusCodes:
