@@ -7,8 +7,12 @@ sites:
   - name: Blaine's Portfolio
     url: https://wemiller.com
     __dangerous__body_down_if_text_missing: 'Blaine'
-  - name: Blaine's CDN
-    url: https://cdn.wemiller.com/blaineam/data/static/media/images/theme/favicon.png
+  - name: Miller Tools
+    url: https://tools.wemiller.com
+  - name: Miller SEO Reports
+    url: https://seo.wemiller.com
+  - name: Miller WebScan
+    url: https://webscan.wemiller.com
   - name: We Miller Barker - Fast Accountability
     url: https://barker.wemiller.com/
     __dangerous__body_down_if_text_missing: 'Blazing Fast Acountability for Every Device'
