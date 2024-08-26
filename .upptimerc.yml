@@ -29,7 +29,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.wemiller.com
   # baseUrl: /statussi
-  logoUrl: https://cdn.wemiller.com/blaineam/static/bmlogo.png
+  logoUrl: https://wemiller.com/profile.jpg
   name: We Miller Status
   introTitle: "This is the current state of the various We Miller Infrastructure"
   introMessage: "If there is an outage, Blaine will fix it as he has the time to do so."
