@@ -36,19 +36,19 @@
     "url": "https://barker.wemiller.com/",
     "icon": "https://icons.duckduckgo.com/ip3/barker.wemiller.com.ico",
     "slug": "barker",
-    "status": "down",
-    "uptime": "97.30%",
-    "uptimeDay": "93.64%",
-    "uptimeWeek": "97.30%",
-    "uptimeMonth": "97.30%",
-    "uptimeYear": "97.30%",
-    "time": 228,
-    "timeDay": 207,
-    "timeWeek": 228,
-    "timeMonth": 228,
-    "timeYear": 228,
+    "status": "up",
+    "uptime": "87.59%",
+    "uptimeDay": "67.48%",
+    "uptimeWeek": "87.59%",
+    "uptimeMonth": "87.59%",
+    "uptimeYear": "87.59%",
+    "time": 238,
+    "timeDay": 221,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {
-      "2024-10-04": 92
+      "2024-10-04": 469
     }
   },
   {
