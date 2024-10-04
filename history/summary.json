@@ -36,18 +36,20 @@
     "url": "https://barker.wemiller.com/",
     "icon": "https://icons.duckduckgo.com/ip3/barker.wemiller.com.ico",
     "slug": "barker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 195,
-    "timeWeek": 249,
-    "timeMonth": 249,
-    "timeYear": 249,
-    "dailyMinutesDown": {}
+    "time": 232,
+    "timeDay": 184,
+    "timeWeek": 232,
+    "timeMonth": 232,
+    "timeYear": 232,
+    "dailyMinutesDown": {
+      "2024-10-04": 0
+    }
   },
   {
     "name": "Disciples Church",
