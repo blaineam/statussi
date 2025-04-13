@@ -1,7 +1,7 @@
 url: https://barker.wemiller.com/
-status: up
-code: 200
-responseTime: 464
-lastUpdated: 2025-04-12T23:02:44.339Z
+status: down
+code: 500
+responseTime: 287
+lastUpdated: 2025-04-13T19:19:12.489Z
 startTime: 2024-10-02T00:22:29.735Z
 generator: Upptime <https://github.com/upptime/upptime>
