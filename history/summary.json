@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 613,
-    "timeDay": 213,
-    "timeWeek": 152,
-    "timeMonth": 152,
-    "timeYear": 279,
-    "dailyMinutesDown": {
-      "2024-07-16": 167
-    }
+    "time": 610,
+    "timeDay": 101,
+    "timeWeek": 144,
+    "timeMonth": 151,
+    "timeYear": 276,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Disciples Church",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 233,
-    "timeDay": 150,
-    "timeWeek": 398,
-    "timeMonth": 630,
+    "timeDay": 89,
+    "timeWeek": 312,
+    "timeMonth": 611,
     "timeYear": 280,
     "dailyMinutesDown": {}
   }
