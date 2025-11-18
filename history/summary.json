@@ -22,19 +22,19 @@
     "url": "https://discipleschurch.com",
     "icon": "https://icons.duckduckgo.com/ip3/discipleschurch.com.ico",
     "slug": "disciples-church",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 252,
-    "timeDay": 197,
-    "timeWeek": 179,
-    "timeMonth": 151,
-    "timeYear": 302,
+    "timeDay": 180,
+    "timeWeek": 173,
+    "timeMonth": 150,
+    "timeYear": 301,
     "dailyMinutesDown": {
-      "2025-11-18": 15
+      "2025-11-18": 30
     }
   }
 ]
