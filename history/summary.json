@@ -6,12 +6,12 @@
     "slug": "blaine-s-portfolio",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.73%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.95%",
     "time": 173,
-    "timeDay": 123,
+    "timeDay": 179,
     "timeWeek": 217,
     "timeMonth": 189,
     "timeYear": 182,
@@ -33,19 +33,20 @@
     "url": "https://discipleschurch.com",
     "icon": "https://icons.duckduckgo.com/ip3/discipleschurch.com.ico",
     "slug": "disciples-church",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 365,
-    "timeDay": 755,
-    "timeWeek": 641,
-    "timeMonth": 760,
-    "timeYear": 324,
+    "time": 404,
+    "timeDay": 10139,
+    "timeWeek": 3001,
+    "timeMonth": 1346,
+    "timeYear": 376,
     "dailyMinutesDown": {
-      "2025-11-18": 113
+      "2025-11-18": 113,
+      "2026-09-05": 0
     }
   }
 ]
