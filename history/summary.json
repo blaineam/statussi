@@ -4,17 +4,17 @@
     "url": "https://wemiller.com",
     "icon": "https://icons.duckduckgo.com/ip3/wemiller.com.ico",
     "slug": "blaine-s-portfolio",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "98.34%",
-    "uptimeMonth": "99.14%",
+    "uptimeDay": "96.17%",
+    "uptimeWeek": "98.20%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "99.87%",
-    "time": 176,
-    "timeDay": 170,
-    "timeWeek": 164,
-    "timeMonth": 172,
-    "timeYear": 180,
+    "time": 177,
+    "timeDay": 194,
+    "timeWeek": 171,
+    "timeMonth": 174,
+    "timeYear": 181,
     "dailyMinutesDown": {
       "2026-02-04": 16,
       "2026-02-17": 22,
@@ -40,7 +40,7 @@
       "2026-10-03": 23,
       "2026-10-05": 39,
       "2026-10-06": 49,
-      "2026-10-08": 40
+      "2026-10-08": 55
     }
   },
   {
